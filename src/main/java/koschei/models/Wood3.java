@@ -11,7 +11,7 @@ public class Wood3 {
     @Autowired
     public Wood3(Rabbit4 rabbit) {
         this.rabbit = rabbit;
-    }
+    }  // конструктор 1
 
     @Override
     public String toString() {

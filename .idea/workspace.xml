@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6de64ba6-79bb-44b9-9145-87f86b9e38e2" name="Changes" comment="2.1.5" />
+    <list default="true" id="6de64ba6-79bb-44b9-9145-87f86b9e38e2" name="Changes" comment="2.1.5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/KoscheiTheDeathless.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/KoscheiTheDeathless.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Deth8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Death8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Duck5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Duck5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Egg6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Egg6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Island2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Island2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Needle7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Needle7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Ocean1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Ocean1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Rabbit4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Rabbit4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/koschei/models/Wood3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/koschei/models/Wood3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/KoscheiTheDeathless.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/KoscheiTheDeathless.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Deth8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Duck5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Duck5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Egg6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Egg6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Island2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Island2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Needle7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Needle7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Ocean1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Ocean1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/koschei/models/Rabbit4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/koschei/models/Rabbit4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/MainTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/MainTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-MainTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-MainTest.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +85,7 @@
       <workItem from="1675735299032" duration="3941000" />
       <workItem from="1675940696634" duration="2569000" />
       <workItem from="1677466201121" duration="680000" />
+      <workItem from="1677548941475" duration="2562000" />
     </task>
     <task id="LOCAL-00001" summary="new_project">
       <created>1675735484212</created>

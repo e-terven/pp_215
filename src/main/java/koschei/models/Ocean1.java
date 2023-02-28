@@ -5,9 +5,8 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Ocean1 {
-
     @Autowired
-    private Island2 island;
+    private Island2 island;    // поле 1
 
     @Override
     public String toString() {
